@@ -1,0 +1,9 @@
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\bin\Debug\BMICalc.exe.config
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\bin\Debug\BMICalc.exe
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\bin\Debug\BMICalc.pdb
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\obj\Debug\BMICalc.csprojAssemblyReference.cache
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\obj\Debug\BMICalc.Form1.resources
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\obj\Debug\BMICalc.Properties.Resources.resources
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\obj\Debug\BMICalc.csproj.GenerateResource.cache
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\obj\Debug\BMICalc.exe
+F:\DCTC\NET1\Chapter3\BMICalc\BMICalc\BMICalc\obj\Debug\BMICalc.pdb
